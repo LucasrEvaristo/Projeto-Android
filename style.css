@@ -55,7 +55,6 @@ main > h1{
     color: green;
     margin: 0px;
     padding: 20px;
-    word-wrap: break-word;
     font-family: android;
 
 }
