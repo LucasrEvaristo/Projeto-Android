@@ -55,6 +55,7 @@ main > h1{
     color: green;
     margin: 0px;
     padding: 20px;
+    white-space: nowrap;
     font-family: android;
 
 }
